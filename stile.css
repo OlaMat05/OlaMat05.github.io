@@ -1,0 +1,64 @@
+body
+{
+    background-color: black;
+}
+#logo
+{
+    padding-top: 0%;
+    width: 15%;
+    padding-left: 0%;
+    position: fixed;
+}
+nav
+{
+    background-color: black;
+    text-align: center;
+}
+a
+{
+    color: white;
+    font-family: 'Trebuchet MS';
+    font-size: 100%;
+    text-decoration: none;
+    padding: 1%;
+}
+#imm1
+{
+    width: 100%;
+}
+#testo
+{
+    text-align: justify;
+    font-family: 'Trebuchet MS';
+    color: white;
+    width: 40%;
+    padding-left: 30%;
+    padding-right: 30%;
+    font-size: 100%;
+}
+#imm2
+{
+    width: 40%;
+    padding-left: 30%;
+    padding-right: 0%;
+    padding-bottom: 0%;
+}
+aside
+{
+    float: right;
+    background-color: #f5a85c;
+    width: 15%;
+    font-family: 'Trebuchet MS';
+    text-align: center;
+}
+#imm3
+{
+    width: 85%;
+}
+footer
+{
+    background-color: #ff860d;
+    text-align: center;
+    font-family: 'Trebuchet MS';
+    padding-bottom: 0.5%;
+}
